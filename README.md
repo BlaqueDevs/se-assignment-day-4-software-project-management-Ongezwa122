@@ -138,6 +138,20 @@ To craft a compelling description of your software solution, it's essential to f
 For Example,For a Financial Management App: The software solution can go like this: Managing money shouldn’t be stressful. Our app gives users a clear picture of their finances and helps them make better financial choices effortlessly. 
 
 ## 11. What are the main features or functionalities that make your software stand out?
+Efficeincy and User Experience as it makes it easier for the user to mange their finances with stress or any hustles.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
+Market size can be calculated using the following measures: 
+Total Addressable Market (TAM)which is the total demand for your type of software worldwide.
+Serviceable Available Market (SAM) which is the portion of the TAM your company can realistically serve.
+Serviceable Obtainable Market (SOM) which is the share of the SAM you expect to capture.
+
+while growth potential can be calculated using:
+**Industry Growth Rate** which looks at reports from Gartner, Statista, IBISWorld, or Forrester to see annual growth percentages.
+**Market Trends** analysis the demand for your solution increasing due to technological advancements or regulatory changes?
+**Competitive Landscape** which looks at the new players entering, or is there consolidation in the industry?
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Keeping an eye on market trends ensures your software stays relevant, competitive, and aligned with user needs.
+Analyzing trends helps spot unmet needs or emerging problems that your software can solve.
+For example: If AI-driven automation is gaining traction, integrating AI features could make your software more attractive.
