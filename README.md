@@ -87,8 +87,20 @@ High-quality software that meets user expectations leads to greater user satisfa
 Delivering high-quality software can give a company a competitive edge in the market.
 **Improved Reputation:**
 A reputation for delivering reliable and high-quality software can enhance a company's image and attract new customers. 
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope is essential in project planning because it establishes clear boundaries, objectives, deliverables, and constraints. It ensures that all stakeholders have a shared understanding of what the project includes and excludes, preventing scope creep (unauthorized changes that can derail timelines and budgets).
+
+A Work Breakdown Structure (WBS) is a hierarchical decomposition of a project into smaller, manageable tasks or deliverables. It breaks the overall project into discrete work packages, making it easier to plan, execute, and monitor.
+
+**Improves Project Organization **Provides a structured view of all tasks and deliverables.
+**Enhances Task Clarity ** Ensures each team member understands their responsibilities.
+**Facilitates Time and Cost Estimation** Helps in developing realistic budgets and schedules.
+**Reduces Complexity** Breaking down the project into smaller parts makes it easier to manage.
+**Enables Better Monitoring and Control** Allows tracking of project progress and identifying bottlenecks.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
